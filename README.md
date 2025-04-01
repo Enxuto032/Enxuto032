@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## UMinho
+## LCC
+## 1º ano
 <!--
 **Enxuto032/Enxuto032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
